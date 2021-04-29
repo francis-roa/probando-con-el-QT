@@ -4,6 +4,6 @@ using namespace std;
 int j=10;
 int main()
 {
-    cout << j<< endl;
+    cout << "prueba"<< endl;
     return 0;
 }
